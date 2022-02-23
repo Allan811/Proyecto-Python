@@ -5,6 +5,7 @@ _____________________________________________________________
 Instalación de las bilbiotecas necesarias. 
 
 OpenCV:
+
 $ sudo apt update 
 $ sudo apt install python3-opencv
 
