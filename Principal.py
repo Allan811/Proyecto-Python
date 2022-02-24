@@ -1,4 +1,10 @@
 #!/usr/bin/python3
+"""
+Modulo que para el menú y llamado de las funciones en  el
+modulo Funciones.
+Ejecute solo este archivo.
+"""
+
 import Funciones as func
 
 

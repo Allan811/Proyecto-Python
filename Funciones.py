@@ -1,4 +1,10 @@
 #!/usr/bin/python3
+"""
+Modulo con las funciones para ser ejecutadas.
+Solo se debe ejecutar el archivo Principal.py.
+"""
+
+
 import cv2
 import numpy as np
 import imutils
